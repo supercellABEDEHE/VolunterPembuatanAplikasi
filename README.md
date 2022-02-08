@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima :
 
 * Reza Abid, [abed.ab.id](https://abed.ab.id)
+* Abistha, [abistha.ab.id](https://abistha.ab.id)
